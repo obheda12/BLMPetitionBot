@@ -1,4 +1,4 @@
-# ScriptsToHelpTheWorld | PetitionBot
+# BLM PetitionBot
 
 Requirements:
   - Python 3
